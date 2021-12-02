@@ -1,5 +1,5 @@
 # Product_Management
-* insert,update and delete in product
-* insert,update and delete in company
-* inset,update and delete in seller
-* fetch all data
+* Insert,Update and Delete in Product
+* Insert,Update and Delete in Company
+* Inset,Update and Delete in Seller
+* Fetch all data
